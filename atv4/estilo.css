@@ -1,0 +1,15 @@
+body#atv4 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://lh3.googleusercontent.com/drive-storage/AJQWtBMMd9uI2g0p8Q4Xd6lZXAuNsYrU6VOuWxH_QpZcatUzUvJl_cMsiIMlAyDKz4ExYgFRT5uDNOF1Oc9Oi7ku8GadveNJEH0DRnbm6J-VTP0tnfw=w1920-h911?auditContext=forDisplay);
+    background-size: cover;
+    font-family: Arial, sans-serif;
+}
+
+div#quadro{
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin: 35px 35px;
+    color: red;
+    box-shadow: 5xp 5xp 10xp rgba(0, 0, 0, 0.5)
+}
